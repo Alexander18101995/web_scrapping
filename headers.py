@@ -1,0 +1,13 @@
+headers = {'Accept-Encoding': 'gzip, deflate, br',
+'Accept-Language': 'ru,en;q=0.9',
+'Cache-Control': 'no-cache',
+'Connection': 'Upgrade',
+'Cookie': '_ym_d=1645614188; _ym_uid=1645614188392816064; _ga=GA1.2.1783237930.1645614191; hl=ru; fl=ru; __gads=ID=bdbb2f31ebe577dd-222de6564bcd0078:T=1645614189:S=ALNI_Mb0d1MSzXGBXIU_io3I650IHbIyzg; _ym_isad=2; habr_web_home_feed=/all/; _gid=GA1.2.1123668840.1661005757; _gat_gtag_UA_726094_1=1',
+'Host': 'habr.com',
+'Origin': 'https://habr.com',
+'Pragma': 'no-cache',
+'Sec-WebSocket-Extensions': 'permessage-deflate; client_max_window_bits',
+'Sec-WebSocket-Key': 'KyFaLGTk9kPJtqz1iC8Xmg==',
+'Sec-WebSocket-Version': '13',
+'Upgrade': 'websocket',
+'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.500'}
